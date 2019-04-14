@@ -1,3 +1,9 @@
+# Exclude testing output
+TestOutput/*
+
+# Ensure output folder is checked in
+!TestOutput/.info
+
 # Prerequisites
 *.d
 

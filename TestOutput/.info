@@ -1,0 +1,2 @@
+# This folder is meant to hold output data, and test programs rely on its existence, 
+# but output doesn't need to be saved.
