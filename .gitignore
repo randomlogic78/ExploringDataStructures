@@ -36,3 +36,6 @@ TestOutput/*
 *.exe
 *.out
 *.app
+
+# Editor Temp files
+*.swp
