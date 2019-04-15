@@ -1,4 +1,4 @@
 #!/bin/sh
 
-g++ -std=c++11 -Wall -c binaryTree.cpp -o tmp/binaryTree.o
+g++ -std=c++11 -Wall -c src/binaryTree.cpp -o tmp/binaryTree.o
 g++ -std=c++11 -Wall tmp/binaryTree.o -o bin/binaryTree
